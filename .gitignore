@@ -1,5 +1,6 @@
 #Temporary Files
 ~$*
+~WRL*.tmp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
