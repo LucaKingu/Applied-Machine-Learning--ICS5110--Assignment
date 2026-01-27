@@ -1,0 +1,4 @@
+Comparison,Mean macro F1 difference,95 percent CI lower,95 percent CI upper
+Random Forest vs SVM,0.3414,0.2038,0.4805
+Random Forest vs RidgeClassifier,0.1587,0.0397,0.2757
+SVM vs RidgeClassifier,-0.1827,-0.2867,-0.0761
